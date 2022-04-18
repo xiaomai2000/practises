@@ -1,0 +1,3 @@
+# Ignored folders
+/scrapy
+/pytest/__pycache__
