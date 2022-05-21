@@ -1,3 +1,4 @@
 # Ignored folders
 /scrapy
 /pytest/__pycache__
+/GCP/key.python-sp-storage-todel2.json
