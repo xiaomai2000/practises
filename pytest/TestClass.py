@@ -10,4 +10,7 @@ class TestClassAssert():
         self.value = 3
         assert self.value == 4
 
+
+if __name__ == "__main__":
+    print("Starts..")
         
